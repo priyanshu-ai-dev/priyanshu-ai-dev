@@ -131,7 +131,7 @@
   </a>
 
   <a href="https://leetcode.com/u/PriyanshuKumar007/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="LeetCode" />
+    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="52" height="40" alt="LeetCode" />
   </a>
 </div>
 
