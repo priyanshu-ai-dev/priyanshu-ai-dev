@@ -1,148 +1,140 @@
-<h1 data-importer="text" align="left">Hii 👋 I am Priyanshu</h1>
+ <!-- 👋 INTRODUCTION -->
 
-###
+<div align="center">
 
-<p data-importer="text" align="left">I am a full stack developer.</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,50:6272A4,100:BD93F9&height=200&section=header&text=Priyanshu%20Kumar&fontSize=42&fontColor=F8F8F2&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="Priyanshu Kumar — Full-Stack Developer and AI Explorer"/>
 
-###
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=BD93F9&center=true&vCenter=true&width=650&lines=Building+projects+that+solve+real+problems;Exploring+AI+and+Full-Stack+Development;Learning+in+public+%7C+Growing+through+Open+Source;Turning+ideas+into+working+software" alt="Developer introduction"/>
+</a>
 
-<h2 data-importer="text" align="left">About me</h2>
+<p>
+  <a href="https://priyanshukumar2026.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-BD93F9?style=for-the-badge&logo=vercel&logoColor=282A36" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/priyanshukumar-tech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:priyanshu924429@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/priyanshu-ai-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-###
-
-<p data-importer="text" align="left">🎓 B.Tech CSE (Artificial Intelligence)<br>💻 Working on projects based on Full-Stack Development, AI/ML, and System Design<br>🌱 Currently learning Data Structures & Algorithms, Backend Development, and Machine Learning<br>🚀 Building real-world projects and participating in hackathons<br>🤝 Open to collaborating on open-source and innovative projects<br>📈 Always learning, experimenting, and improving one project at a time</p>
-
-###
-
-<h2 data-importer="text" align="left">Skills</h2>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" height="40" alt="gcc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="40" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-chi-nine-75.vercel.app/api?username=priyanshu-ai-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-chi-nine-75.vercel.app/api/top-langs?username=priyanshu-ai-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+## 👨‍💻 About Me
+
+Hey there! I'm **Priyanshu**, a Computer Science and Engineering student specializing in Artificial Intelligence, interested in building useful software and exploring emerging technologies.
+
+- 🎓 Pursuing B.Tech in CSE (Artificial Intelligence).
+- 🌐 Building full-stack web applications and practical software projects.
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and intelligent applications.
+- 🧠 Strengthening my Data Structures & Algorithms skills with Java.
+- 🚀 Participating in hackathons and building solutions to real-world problems.
+- 🌱 Learning through experimentation, open source, and building in public.
+- 🤝 Open to meaningful collaborations, open-source contributions, and opportunities to learn.
+
+> I believe in learning by building, improving through feedback, and turning ideas into something people can actually use.
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,c&theme=dark" alt="Java, Python, JavaScript, TypeScript, C++ and C"/>
+</p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, React, Next.js and Tailwind CSS"/>
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,firebase&theme=dark" alt="Node.js, Express, NestJS, MongoDB, MySQL and Firebase"/>
+</p>
+
+**Tools, Platforms & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,gcp,figma,postman&theme=dark" alt="Git, GitHub, VS Code, Linux, Docker, Google Cloud, Figma and Postman"/>
+</p>
+
+## 🚀 Featured Projects
+
+### 1. SAIL Logistics Optimizer
+
+A logistics-focused project designed to support smarter logistics operations through dashboards, analytics, and optimization-oriented features.
+
+- ⚙️ Focus: Logistics, data visualization, and operational insights.
+- 🧩 Built as a project for the Smart India Hackathon 2025 problem statement.
+- 🔗 [View source code](https://github.com/priyanshu-ai-dev/sail-logistics-optimizer)
+
+### 2. SwachhaBharat
+
+A web-based initiative focused on waste management and making cleanliness-related services and information more accessible.
+
+- 🌍 Focus: Cleanliness, waste management, and user-facing web experiences.
+- 🧩 Developed for the Smart India Hackathon 2025.
+- 🔗 [Live project](https://swachhbharat.netlify.app/user_dashboard)
+- 💻 [View source code](https://github.com/priyanshu-ai-dev/swachh-bharat-waste-management)
+
+### 3. Polar Science Outreach Portal
+
+An end-to-end portal concept for making polar science knowledge and educational resources more accessible.
+
+- ❄️ Focus: Science outreach, knowledge repository, learning resources, and media dissemination.
+- 🏆 Developed with Team LogicForge for Smart India Hackathon 2026, problem statement 26063.
+- 🔗 [Explore my GitHub repositories](https://github.com/priyanshu-ai-dev?tab=repositories)
+
+### 4. Personal Portfolio
+
+My personal corner of the web, showcasing my projects, skills, and ongoing developer journey.
+
+- 🎨 Focus: Personal branding and project presentation.
+- 🔗 [Visit my portfolio](https://priyanshukumar2026.netlify.app/)
+
+> Project descriptions reflect their intended purpose. Update the source-code links if your repositories use different names.
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats-chi-nine-75.vercel.app/api?username=priyanshu-ai-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" height="170" alt="GitHub statistics"/>
+
+<img src="https://github-readme-stats-chi-nine-75.vercel.app/api/top-langs/?username=priyanshu-ai-dev&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="170" alt="Most used programming languages"/>
+
+<img src="https://streak-stats.demolab.com?user=priyanshu-ai-dev&theme=dracula&hide_border=true" width="80%" alt="GitHub contribution streak"/>
+
 </div>
 
-###
+## 🏆 Beyond Coding
 
-<div data-importer="socials" align="center">
-   <a href="https://www.linkedin.com/in/priyanshukumar-tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
+- 💡 Hackathons and collaborative problem-solving.
+- 🌐 Open-source development and community learning.
+- 📚 Consistent practice with DSA and software development fundamentals.
+- 🧪 Exploring new tools, technologies, and ideas through hands-on projects.
 
-  <a href="mailto:priyanshu924429@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-  </a>
+## 🤝 Let's Connect
 
-  <a href="https://www.instagram.com/quantum.pulsex" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
-  </a>
+I'm always happy to connect with fellow developers, exchange ideas, collaborate on projects, and learn from the community.
 
-  <a href="https://leetcode.com/u/PriyanshuKumar007/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" width="52" height="40" alt="LeetCode" />
-  </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/priyanshukumar-tech"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:priyanshu924429@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" alt="Email"/></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/quantum.pulsex"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/PriyanshuKumar007/"><img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=BD93F9" width="42" alt="LeetCode"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=priyanshu-ai-dev&style=flat-square&color=BD93F9&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/priyanshu-ai-dev/priyanshu-ai-dev/snake-output/snake.svg" alt="Contribution snake animation"/>
+
+<br/>
+
+*Building, learning, and getting better — one commit at a time.*
+
 </div>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/priyanshu-ai-dev/priyanshu-ai-dev/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=priyanshu-ai-dev.priyanshu-ai-dev&"  />
-</div>
-
-###
