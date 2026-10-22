@@ -99,9 +99,9 @@ My personal corner of the web, showcasing my projects, skills, and ongoing devel
 
 <div align="center">
 
-<img src="https://github-readme-stats-chi-nine-75.vercel.app/api?username=priyanshu-ai-dev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" height="170" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyanshu-ai-dev&show_icons=true&theme=dracula&hide_border=true" height="170" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats-chi-nine-75.vercel.app/api/top-langs/?username=priyanshu-ai-dev&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="170" alt="Most used programming languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-ai-dev&layout=compact&theme=dracula&hide_border=true" height="170" alt="Most used programming languages"/>
 
 <img src="https://streak-stats.demolab.com?user=priyanshu-ai-dev&theme=dracula&hide_border=true" width="80%" alt="GitHub contribution streak"/>
 
