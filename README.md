@@ -1,8 +1,8 @@
-<!-- 👋 HEADER -->
+  <!-- 👋 HEADER -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,50:6272A4,100:BD93F9&height=200&section=header&text=Priyanshu%20Kumar&fontSize=42&fontColor=F8F8F2&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="Priyanshu Kumar — Full-Stack Developer and AI Explorer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,50:6272A4,100:BD93F9&height=200&section=header&text=Priyanshu%20Kumar&fontSize=42&fontColor=F8F8F2&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="Priyanshu Kumar — B.Tech CSE (AI) | Full-Stack Development | AI/ML Explorer | Java & DSA"/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=BD93F9&center=true&vCenter=true&width=650&lines=Building+projects+that+solve+real+problems;Exploring+AI+and+Full-Stack+Development;Learning+in+public+%7C+Growing+through+Open+Source;Turning+ideas+into+working+software" alt="Developer introduction"/>
@@ -51,7 +51,7 @@ Hi, I'm **Priyanshu**, a B.Tech CSE student specializing in Artificial Intellige
 
 | Project | What it is | Links |
 |:--|:--|:--|
-| 🚚 **SAIL Logistics Optimizer** | Dashboards and analytics to help plan and track logistics operations. Built for Smart India Hackathon 2025. | [Code](https://github.com/priyanshu-ai-dev/sail-logistics-optimizer) |
+| 🚚 **SAIL Logistics Optimizer** | Dashboards and analytics to help plan and track logistics operations. Built for Smart India Hackathon 2025. | [Code](https://github.com/priyanshu-ai-dev/sail-ai-logistics-optimizer) |
 | ♻️ **SwachhaBharat** | A web platform that makes waste management services and information easier to access. Built for Smart India Hackathon 2025. | [Live](https://swachhbharat.netlify.app/user_dashboard) · [Code](https://github.com/priyanshu-ai-dev/swachh-bharat-waste-management) |
 | ❄️ **Polar Science Outreach Portal** | A portal concept that makes polar science knowledge, learning resources and media easier to reach. Built with Team LogicForge for Smart India Hackathon 2026 (problem statement 26063). | [Repositories](https://github.com/priyanshu-ai-dev?tab=repositories) |
 | 🎨 **Personal Portfolio** | My projects, skills and developer journey in one place. | [Visit](https://priyanshukumar2026.netlify.app/) |
