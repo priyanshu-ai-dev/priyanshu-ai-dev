@@ -91,7 +91,7 @@ I'm always happy to chat with other developers, swap ideas, and work on projects
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=priyanshu-ai-dev&style=flat-square&color=BD93F9&label=PROFILE+VIEWS" alt="Profile views"/>
+![Profile views](https://hits.sh/github.com/priyanshu-ai-dev.svg?label=PROFILE+VIEWS&color=BD93F9&style=flat-square)
 
 <br/><br/>
 
